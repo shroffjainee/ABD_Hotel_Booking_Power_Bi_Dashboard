@@ -18,11 +18,7 @@ The ABD Hotel Booking Dashboard is an interactive Power BI report built to visua
 
 <br/>
 
-## 📌 Page Title
 
-**Hotel Booking Insights Dashboard**
-
-<br/>
 
 ## 🛠 Tools Used
 
